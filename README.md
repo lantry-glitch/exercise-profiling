@@ -9,3 +9,11 @@ Gambar 3
 
 Gambar 4
 ![image](https://github.com/user-attachments/assets/8c991836-2815-4554-89ad-46c152267459)
+
+Gambar 5
+![image](https://github.com/user-attachments/assets/f95fc07a-af2e-44ce-9687-5595ad44c21d)
+
+Gambar 6
+![image](https://github.com/user-attachments/assets/021d6543-d8df-486e-ae24-f37d58868e4d)
+
+
