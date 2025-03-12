@@ -16,4 +16,16 @@ Gambar 5
 Gambar 6
 ![image](https://github.com/user-attachments/assets/021d6543-d8df-486e-ae24-f37d58868e4d)
 
+Gambar 7
+![image](https://github.com/user-attachments/assets/21b88475-bb03-4a9e-a83e-edf1435cc4f8)
+
+Gambar 8
+![image](https://github.com/user-attachments/assets/5c5a7b2a-4706-4f76-8b3a-bea624c0d156)
+
+Gambar 9
+![image](https://github.com/user-attachments/assets/8af18896-63e1-4a35-a350-6bd5ac26ad84)
+
+Gambar 10
+![image](https://github.com/user-attachments/assets/81dd56ae-b7e4-4935-a76c-d1291011e7a8)
+
 
