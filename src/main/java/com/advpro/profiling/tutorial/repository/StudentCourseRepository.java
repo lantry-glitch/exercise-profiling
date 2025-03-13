@@ -13,8 +13,8 @@ import java.util.List;
  */
 @Repository
 public interface StudentCourseRepository extends JpaRepository<StudentCourse, Long> {
-    @Query("SELECT sc FROM StudentCourse sc "
-            + "LEFT JOIN FETCH sc.student "
-            + "LEFT JOIN FETCH sc.course")
+    @Query("SELECT scou FROM StudentCourse scou "
+            + "LEFT JOIN FETCH scou.student "
+            + "LEFT JOIN FETCH scou.course")
     List<StudentCourse> findAllWithStudentAndCourse();
 }
