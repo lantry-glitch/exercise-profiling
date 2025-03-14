@@ -73,7 +73,7 @@ Ketika saya melakukan performance testing dan profiling, ada beberapa tantangan 
 
 a. Menentukan Skenario Uji yang Realistis
 Tantangannya adalah bagaimana memastikan skenario uji beban (load test) benar-benar mewakili kondisi di dunia nyata.
-Solusi: Saya mencoba menganalisis pola penggunaan aplikasi—misalnya, jam sibuk pengguna, fitur apa yang paling sering diakses—lalu menirunya di JMeter. Dengan demikian, hasil tes lebih akurat dan relevan.
+Solusi: Saya mencoba menganalisis pola penggunaan aplikasi misalnya, jam sibuk pengguna, fitur apa yang paling sering diakses lalu menirunya di JMeter. Dengan demikian, hasil tes lebih akurat dan relevan.
 
 b. Menangani Variabel Lingkungan
 Kondisi server, konfigurasi jaringan, dan spesifikasi hardware bisa sangat memengaruhi hasil tes. Kadang, performa terlihat buruk hanya karena konfigurasi lokal saya kurang optimal.
